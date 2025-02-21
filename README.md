@@ -1,6 +1,8 @@
 # Tokenize BlockSpace - SmartContracts
 
-This is the main repo for the project's smart contracts. The core idea and innovation is based on the SSTORE2 library's READ & WRITE functions. It makes read and write operations at the fraction of the costs (of SLOAD, SSTORE). This way we can store relatively big files (representing anything, legal documents, CVs, pdsfs.) onchain.
+This is the main repo for the project's smart contracts, with which we can store relatively big files (representing anything, legal documents, CVs, pdsfs.) onchain. 
+
+The core idea and innovation is based on the SSTORE2 library's READ & WRITE functions. It makes read and write operations at the fraction of the costs (of SLOAD, SSTORE). 
 
 What and how it is doing, please see the diagram below.
 
